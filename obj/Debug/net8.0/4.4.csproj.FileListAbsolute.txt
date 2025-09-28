@@ -1,0 +1,14 @@
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\bin\Debug\net8.0\4.4.exe
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\bin\Debug\net8.0\4.4.deps.json
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\bin\Debug\net8.0\4.4.runtimeconfig.json
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\bin\Debug\net8.0\4.4.dll
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\bin\Debug\net8.0\4.4.pdb
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\obj\Debug\net8.0\4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\obj\Debug\net8.0\4.4.AssemblyInfoInputs.cache
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\obj\Debug\net8.0\4.4.AssemblyInfo.cs
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\obj\Debug\net8.0\4.4.csproj.CoreCompileInputs.cache
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\obj\Debug\net8.0\4.4.dll
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\obj\Debug\net8.0\refint\4.4.dll
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\obj\Debug\net8.0\4.4.pdb
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\obj\Debug\net8.0\4.4.genruntimeconfig.cache
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\obj\Debug\net8.0\ref\4.4.dll

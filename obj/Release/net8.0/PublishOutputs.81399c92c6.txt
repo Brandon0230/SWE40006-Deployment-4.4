@@ -1,0 +1,5 @@
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\bin\Release\net8.0\publish\4.4.exe
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\bin\Release\net8.0\publish\4.4.dll
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\bin\Release\net8.0\publish\4.4.deps.json
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\bin\Release\net8.0\publish\4.4.runtimeconfig.json
+C:\Users\bp186\OneDrive\Desktop\UNI\UNI 2025\Sem 2\SWE40006\Deployment Task 4\4.4\bin\Release\net8.0\publish\4.4.pdb
